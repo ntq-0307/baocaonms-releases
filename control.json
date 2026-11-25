@@ -1,14 +1,14 @@
 {
-  "updated_at": "26/11/2026 02:20:08",
+  "updated_at": "26/11/2026 02:20:39",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
     "NMS-B403-B9CA-82D1": {
-      "name": "NMS TÂN BÌN",
+      "name": "NMS TEST",
       "locked": false,
       "lock_reason": "",
-      "last_rename_ts": 1795630078.2325208,
-      "updated_at": "26/11/2026 01:11:40"
+      "last_rename_ts": 1795634439.0164638,
+      "updated_at": "26/11/2026 02:20:39"
     }
   },
   "notices": [
