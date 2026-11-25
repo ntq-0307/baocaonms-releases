@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/11/2026 00:43:55",
+  "updated_at": "26/11/2026 00:44:34",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
@@ -12,15 +12,6 @@
   },
   "notices": [],
   "commission_rules": [
-    {
-      "id": "rule_7d41a7e5",
-      "enabled": true,
-      "match_type": "brand",
-      "pattern": "NMS",
-      "rate_type": "none",
-      "rate_value": 0.0,
-      "note": ""
-    },
     {
       "id": "rule_b3f70169",
       "enabled": true,
