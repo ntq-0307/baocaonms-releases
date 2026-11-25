@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/11/2026 01:28:22",
+  "updated_at": "26/11/2026 01:29:16",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
@@ -20,18 +20,11 @@
   },
   "notices": [
     {
-      "id": "noti_100e0ddd",
-      "date": "26/11/2026 01:13",
+      "id": "noti_16a84229",
+      "date": "26/11/2026 01:29",
       "target": "ALL",
-      "title": "giao diện",
-      "body": "giao diện\ngiao diện\n\ngiao diện\n\ngiao diện\n\ngiao diện"
-    },
-    {
-      "id": "noti_7609e937",
-      "date": "26/11/2026 01:12",
-      "target": "ALL",
-      "title": "test hệ thống",
-      "body": "test hệ thống\ntest hệ thống\ntest hệ thống\ntest hệ thống\ntest hệ thống\ntest hệ thống\ntest hệ thống\ntest hệ thống"
+      "title": "test",
+      "body": "123"
     }
   ],
   "commission_rules": [
