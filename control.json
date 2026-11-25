@@ -1,13 +1,13 @@
 {
-  "updated_at": "26/11/2026 00:48:58",
+  "updated_at": "26/11/2026 01:06:31",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
     "NMS-B403-B9CA-82D1": {
       "name": "NMS TÂN BÌNH",
-      "locked": false,
+      "locked": true,
       "lock_reason": "Admin đã tạm khóa quyền sử dụng chi nhánh này.",
-      "updated_at": "26/11/2026 00:47:09"
+      "updated_at": "26/11/2026 01:06:31"
     },
     "NMS-B403-B9CA-82D2": {
       "name": "NMS BÌNH THẠNH",
