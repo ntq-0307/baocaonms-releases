@@ -1,8 +1,15 @@
 {
-  "updated_at": "25/11/2026 23:27:20",
+  "updated_at": "25/11/2026 23:33:14",
   "global_lock": false,
   "global_lock_reason": "",
-  "branches": {},
+  "branches": {
+    "NMS-B403-B9CA-82D1": {
+      "name": "NMS Q5",
+      "locked": true,
+      "lock_reason": "Admin đã tạm khóa quyền sử dụng chi nhánh này.",
+      "updated_at": "25/11/2026 23:29:32"
+    }
+  },
   "notices": [],
   "commission_rules": [
     {
