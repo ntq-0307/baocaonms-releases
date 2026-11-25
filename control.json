@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/11/2026 00:44:34",
+  "updated_at": "26/11/2026 00:44:35",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
@@ -13,13 +13,13 @@
   "notices": [],
   "commission_rules": [
     {
-      "id": "rule_b3f70169",
+      "id": "rule_default_shoes",
       "enabled": true,
       "match_type": "all_shoes",
-      "pattern": "qqqqqqqqqqqqqqqqqqqqqqqqqqqqq",
+      "pattern": "",
       "rate_type": "none",
-      "rate_value": 0.0,
-      "note": ""
+      "rate_value": 0,
+      "note": "Chỉ tính Giày (không tính phụ kiện)"
     }
   ]
 }
