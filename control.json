@@ -1,14 +1,14 @@
 {
-  "updated_at": "26/11/2026 02:21:04",
+  "updated_at": "26/11/2026 02:32:26",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
     "NMS-B403-B9CA-82D1": {
       "name": "NMS TEST",
-      "locked": true,
-      "lock_reason": "Admin đã tạm khóa quyền sử dụng chi nhánh này.",
+      "locked": false,
+      "lock_reason": "",
       "last_rename_ts": 1795634439.0164638,
-      "updated_at": "26/11/2026 02:21:04"
+      "updated_at": "26/11/2026 02:32:26"
     }
   },
   "notices": [
