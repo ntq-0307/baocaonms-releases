@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/11/2026 00:47:09",
+  "updated_at": "26/11/2026 00:48:58",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
@@ -16,7 +16,15 @@
       "updated_at": "26/11/2026 00:46:09"
     }
   },
-  "notices": [],
+  "notices": [
+    {
+      "id": "noti_2111100c",
+      "date": "26/11/2026 00:48",
+      "target": "ALL",
+      "title": "Cập nhật giao diện Noel",
+      "body": "giao diện mới"
+    }
+  ],
   "commission_rules": [
     {
       "id": "rule_99c0097a",
