@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/11/2026 01:13:20",
+  "updated_at": "26/11/2026 01:13:50",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
@@ -18,6 +18,13 @@
     }
   },
   "notices": [
+    {
+      "id": "noti_100e0ddd",
+      "date": "26/11/2026 01:13",
+      "target": "ALL",
+      "title": "giao diện",
+      "body": "giao diện\ngiao diện\n\ngiao diện\n\ngiao diện\n\ngiao diện"
+    },
     {
       "id": "noti_7609e937",
       "date": "26/11/2026 01:12",
