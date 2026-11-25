@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/11/2026 00:45:13",
+  "updated_at": "26/11/2026 00:45:25",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
@@ -20,6 +20,15 @@
       "rate_type": "fixed_per_unit",
       "rate_value": 30000.0,
       "note": "Mã ATT (30,000 đ/đôi)"
+    },
+    {
+      "id": "rule_cce8835a",
+      "enabled": true,
+      "match_type": "sku",
+      "pattern": "FLA",
+      "rate_type": "fixed_per_unit",
+      "rate_value": 10000.0,
+      "note": "Mã FLA (10,000 đ/đôi)"
     }
   ]
 }
