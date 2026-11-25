@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/11/2026 01:29:16",
+  "updated_at": "26/11/2026 02:20:08",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
@@ -9,13 +9,6 @@
       "lock_reason": "",
       "last_rename_ts": 1795630078.2325208,
       "updated_at": "26/11/2026 01:11:40"
-    },
-    "NMS-B403-B9CA-82D2": {
-      "name": "NMS BÌNH THẠNH",
-      "locked": false,
-      "lock_reason": "",
-      "last_rename_ts": 0.0,
-      "updated_at": "26/11/2026 01:28:22"
     }
   },
   "notices": [
