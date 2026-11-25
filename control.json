@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/11/2026 00:44:47",
+  "updated_at": "26/11/2026 00:45:13",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
@@ -13,13 +13,13 @@
   "notices": [],
   "commission_rules": [
     {
-      "id": "rule_default_shoes",
+      "id": "rule_99c0097a",
       "enabled": true,
-      "match_type": "all_shoes",
-      "pattern": "",
-      "rate_type": "none",
-      "rate_value": 0,
-      "note": "Chỉ tính Giày (không tính phụ kiện)"
+      "match_type": "sku",
+      "pattern": "ATT",
+      "rate_type": "fixed_per_unit",
+      "rate_value": 30000.0,
+      "note": "Mã ATT (30,000 đ/đôi)"
     }
   ]
 }
