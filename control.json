@@ -1,5 +1,5 @@
 {
-  "updated_at": "27/11/2026 12:44:49",
+  "updated_at": "27/11/2026 12:45:01",
   "global_lock": false,
   "global_lock_reason": "",
   "branches": {
@@ -12,10 +12,10 @@
     },
     "NMS-C17F-8C6F-8344": {
       "name": "NMS BÌNH THẠNH",
-      "locked": true,
-      "lock_reason": "Admin đã tạm khóa quyền sử dụng chi nhánh này.",
+      "locked": false,
+      "lock_reason": "",
       "last_rename_ts": 1795758226.462482,
-      "updated_at": "27/11/2026 12:44:49"
+      "updated_at": "27/11/2026 12:45:01"
     }
   },
   "notices": [
